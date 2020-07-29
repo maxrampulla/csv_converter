@@ -1,6 +1,6 @@
 # python-hierarchy
 
-[![Python: 3.8](https://img.shields.io/badge/Python-3.6-blue.svg)](#)
+[![Python: 3.8](https://img.shields.io/badge/Python-3.8-blue.svg)](#)
 [![license: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
 The csv converter tool is meant to take in a traditional csv of hotels (as defined by Noken), and spit out a json that can be used for upload into the automation tool. This tool is menat to prevent coding and json creation on the content curation side of the busienss. 
